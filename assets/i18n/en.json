@@ -111,7 +111,8 @@
     "HomeBestSeller": "Best Sellers",
     "HomeTopClub": "Top Clubs",
     "HomeTopTeam": "Top Teams",
-    "HomeTopPlayer": "Top Players",    
+    "HomeTopClubJersey": "Top Clubs Jersey",
+    "HomeTopTeamJersey": "Top Teams Jersey",
 
     "CartFreeShippingInfo": "ADD {{price}} OF ITEMS TO ENJOY FREE STANDARD SHIPPING.",
     "CartCheckout": "Proceed to Checkout", 
@@ -163,6 +164,13 @@
     "DetailEasyReturnsTitle": "Easy 365-Day Returns",
     "DetailEasyReturnsContent": "We are committed to your total satisfaction. If, for any reason, you are not associated tax, within 365 business days of receipt of the item(s). To receive either a credit toward an exchange or a credit on your charge account, please note that all returns and exchanges must be in new, unused or unworn condition with the original tags and stickers attached. Items deemed worn, used, dirty or missing tags will be returned to purchaser at their expense and no refund will be issued. Women''swimwear is eligible for return only if the sanitary liner is place. Underwear, Customized and personalized items are not returnable. Since lost return shipments are the responsibility of the customer, be sure to obtain a tracking number from the courier for the return shipment.",
     "DetailAddToCart": "Add to Cart",
+    "DetailQty": "Qty",
+    "DetailCustomTitle": "Custom Name & Number",
+    "DetailCustomOption": "Custom Options",
+    "DetailOfferTitle": "Offer",
+    "DetailShipTitle": "Ship To",
+    "DetailClearCustomTitle": "Clear",
+    "DetailClearCustomInfo": "Are you sure you want to clear all custom info?",
 
     "ShippingFastShipping": "FAST SHIPPING",
     "ShippingFastShippingDesc": "Order ship within 24 hours.",
