@@ -14,9 +14,6 @@
     "CartCouponPlaceHolder": "input coupon code",
     
     "Setting": "Setting",
-    "MineWelcome": "Hi, {{name}}",
-    "MineViewedTitle": "Recently Viewed",
-
     "SettingChangePassword": "Change Password",
     "SettingCurrentCountry": "Current Country",
     "SettingCurrentLanguage": "Current Language",
@@ -26,6 +23,8 @@
 
     "SettingChangeUserInfo": "Modify Information",
     "SettingAvatar": "Avatar",
+    "SettingChangeAvatarHint": "Only supports JPG, GIF, PNG, JPEG, BMP formats, files smaller than 4M",
+    "SettingChangeAvatarSizeHint": "Picture file must be less than 4M",
 
     "ChangeCurrencyTitle": "Change Currency",
     "ChangeLanguageTitle": "Change Language",
@@ -120,6 +119,10 @@
     "CartGrandTotal": "Sub Total",
     "CartApplyText": "Apply",
 
+    "MineWelcome": "Hi, {{name}}",
+    "MineSign": "Sign",
+    "MinePoint": "Point",
+    "MineViewedTitle": "Recently Viewed",
     "MineCouponHint": "Create account and enjoy your coupon code!",
     "MyOrder": "My Order",
     "MyFavorites": "My Favorite",
@@ -187,9 +190,11 @@
     "PaymentCardCVV": "CVV2/CSC",
     "PaymentPayNow": "Pay Now",
 
+    "OrderStatusForAll": "All",
     "OrderStatusForPending": "Pendding",
+    "OrderStatusForBeReceived": "To Be Received",
+    "OrderStatusForComplete": "Completed",
     "OrderStatusForFail": "Fail",
-    "OrderStatusForSuccess": "Success",
     "OrderStatusForDelay": "Delay",
 
     "OrderNo": "Order Number",
@@ -302,5 +307,7 @@
     "PrivacyDesc5Line3": "- Help us create content on this site that is most relevant to you.",
     "PrivacyDesc5Line4": "- Alert you to new information, products, and services.",
     "PrivacyTitle6": "3.Privacy Security",
-    "PrivacyDesc6": "We will not sell (or trade or rent) your personally identifiable information to other companies. We also use the latest in encryption technology to ensure the information safe. And all employees that we hire have to sign a confidentiality agreement that forbids them from disclosing any information to other individuals or entities."
+    "PrivacyDesc6": "We will not sell (or trade or rent) your personally identifiable information to other companies. We also use the latest in encryption technology to ensure the information safe. And all employees that we hire have to sign a confidentiality agreement that forbids them from disclosing any information to other individuals or entities.",
+
+    "MessageTitle": "Message"
 }
